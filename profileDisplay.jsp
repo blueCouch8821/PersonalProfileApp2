@@ -1,6 +1,4 @@
-<%-- 
-    @author Phoebe Supang Lasung (2025178325)
---%>
+<!--@author Phoebe Supang Lasung (2025178325)-->
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
